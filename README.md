@@ -4,7 +4,7 @@ Public assets and documentation for the **TransiTango** iOS & watchOS applicatio
 
 ## 📄 Privacy Policy
 
-- 🌐 **Live Web Version (GitHub Pages):** [https://stavroszikoulis.github.io/TransitTango-Public/](https://stavroszikoulis.github.io/TransitTango-Public/)
+- 🌐 **Live Web Version (GitHub Pages):** [https://stavroszikoulis.github.io/TransitTango-Public/privacypolicy](https://stavroszikoulis.github.io/TransitTango-Public/privacypolicy)
 - 📝 **Markdown Version:** [PRIVACY_POLICY.md](PRIVACY_POLICY.md)
 
 ---
